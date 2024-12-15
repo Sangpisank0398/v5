@@ -1,4 +1,4 @@
-# PRANTAS TUNNELING
+# MIFTAH TUNNELING
 
 # UPDATE REPO DEBIAN
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</code></pre>
