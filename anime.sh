@@ -164,7 +164,7 @@ CHATID="944278308"
 KEY="6431751981:AAEYxHrbWOISjSL1A6Zv4-Zp35n5PRex5eg"
 TIME="10"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
-TEXT="Installasi script V5 By Mas3ko 
+TEXT="Installasi script V5 By riot store 
 ============================
 <code>Domain     :</code> <code>$domain</code>
 <code>IP Vps     :</code> <code>$IPVPS</code>
